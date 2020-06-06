@@ -64,7 +64,8 @@
 {"number":"64","name":"Quraan Radio Tafsir(إذاعة تفسير القرآن الكريم)","description":"","logo":"/Quraan Radio Tafsir.png","streamUrl":"http://206.72.199.179:9992/;","yourmuzeId":"0","state":"1"},
 {"number":"65","name":"الألوكة-إذاعة علوم القرآن","description":"","logo":"/إذاعة علوم القرآن.jpg","streamUrl":"http://radio.alukah.net/ulumalquran","yourmuzeId":"0","state":"1"},
 {"number":"66","name":"الألوكة-إذاعة رمضان","description":"","logo":"/إذاعة رمضان.jpg","streamUrl":"http://radio.alukah.net/ramdan.mp3","yourmuzeId":"0","state":"1"},
-{"number":"67","name":"Ashabulhadith Radio(إذاعة أصحاب الحديث)","description":"","logo":"/إذاعة رمضان.jpg","streamUrl":"http://176.31.107.8:8332/stream/;","yourmuzeId":"0","state":"1"},
+{"number":"67","name":"Ashabulhadith Radio(إذاعة أصحاب الحديث)","description":"","logo":"/Ashabulhadith Radio.png","streamUrl":"http://176.31.107.8:8332/stream/;","yourmuzeId":"0","state":"1"},
+{"number":"68","name":"Al Haramayn Voice","description":"","logo":"/Ashabulhadith Radio.png","streamUrl":"http://212.32.255.144:9300/stream.mp3","yourmuzeId":"0","state":"1"},
   
 
   
