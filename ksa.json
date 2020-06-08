@@ -66,6 +66,15 @@
 {"number":"66","name":"الألوكة-إذاعة رمضان","description":"","logo":"/إذاعة رمضان.jpg","streamUrl":"http://radio.alukah.net/ramdan.mp3","yourmuzeId":"0","state":"1"},
 {"number":"67","name":"Ashabulhadith Radio(إذاعة أصحاب الحديث)","description":"","logo":"/Ashabulhadith Radio.png","streamUrl":"http://176.31.107.8:8332/stream/;","yourmuzeId":"0","state":"1"},
 {"number":"68","name":"Al Haramayn Voice(إذاعة صوت الحرمين)","description":"","logo":"/Al Haramayn Voice.jpg","streamUrl":"http://212.32.255.144:9300/stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"69","name":"ترتيل","description":"","logo":"/tartil.jpg","streamUrl":"http://live2.badrshfaqah.sa:8023/stream","yourmuzeId":"0","state":"1"},
+{"number":"70","name":"saudi radio music","description":"","logo":"/saudi radio.jpg","streamUrl":"http://158.69.4.171:8021/stream","yourmuzeId":"0","state":"1"},
+{"number":"71","name":"SBS Arabic 24 live(أس بي أس عربي)","description":"","logo":"/SBS Arabic 24 live.jpeg","streamUrl":"https://sbs-ice.streamguys1.com//sbs-arabic-sbs-web","yourmuzeId":"0","state":"1"},
+{"number":"72","name":"هلا-Hala","description":"","logo":"/Hala96 live.jpg","streamUrl":"http://108.61.34.50:7026/stream","yourmuzeId":"0","state":"1"},
+{"number":"73","name":"فيرس 24/7 HOLY QURAN","description":"","logo":"/HOLY QURAN.jpg","streamUrl":"https://verse24.ngrok.io/listen.mp3","yourmuzeId":"0","state":"1"},
+{"number":"74","name":"Khaled Al-Qahtani Radio(خالد القهطانى راديو)","description":"","logo":"/Khaled Al-Qahtani.jpg","streamUrl":"http://live.mp3quran.net:9970/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"75","name":"القرأن مباشر","description":"","logo":"/القرأن مباشر.jpg","streamUrl":"http://radio.yaservers.com:9966/;","yourmuzeId":"0","state":"1"},
+{"number":"76","name":"راديو قرءان مباشر","description":"","logo":"/راديو قرءان مباشر.jpg","streamUrl":"http://live.atyaf.co:8012/;","yourmuzeId":"0","state":"1"},
+{"number":"78","name":"سورة البقرة","description":"","logo":"/سورة البقرة.jpg","streamUrl":"http://212.32.255.144:9300/stream.mp3","yourmuzeId":"0","state":"1"},
   
 
   
