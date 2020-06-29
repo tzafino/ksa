@@ -1,7 +1,7 @@
 {"success":true,"message":"","radios":
 [
 
-
+{"number":"0","name":"نجوم FM 100.6","description":"","logo":"/نجوم FM 100.6.jpg","streamUrl":"https://reach-audio.esteam.rocks/radio/8000/live.mp3","yourmuzeId":null,"state":"1"},
 {"number":"1","name":"Alif Alif FM(ألف ألف)","description":"","logo":"/s135623q.webp","streamUrl":"http://alifaliffm.com:8800/AlifAlif.mp3","yourmuzeId":"0","state":"1"},
 {"number":"2","name":"Allahu Akbar Radio","description":"","logo":"/c1751.png","streamUrl":"https://mbcwanasatv-live-v4-hls.secure.fjgtrbdvunklist_b764000.m3u8","yourmuzeId":"0","state":"0"},
 {"number":"3","name":"اذاعة القران الكريم من السعودية","description":"","logo":"/اذاعة القران الكريم من السعودية.jpg","streamUrl":"http://live2.badrshfaqah.sa:8027/stream","yourmuzeId":"0","state":"1"},
